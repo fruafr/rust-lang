@@ -34,6 +34,7 @@
 
 | Rust Crate | Description |
 | -| - |
+| mio | Lightweight non-blocking I/O |
 | tokio | An event-driven, non-blocking I/O platform for writing asynchronous I/O backed applications |
 | h2 | An HTTP/2 client and server |
 
