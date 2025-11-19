@@ -2,6 +2,7 @@
 rust language resources
 
 ## Documentation
+- [Documentation search for any published crate](https://docs.rs/)
 - [std: Rust standard library](https://doc.rust-lang.org/std/)
 - [cargo guide](https://doc.rust-lang.org/cargo/guide/)
 - [Rust error codes index](https://doc.rust-lang.org/error_codes/error-index.html)
@@ -13,6 +14,6 @@ rust language resources
 - [The Rust reference](https://doc.rust-lang.org/stable/reference/)
 - [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
 
-## Resources Rust en français
+## Ressources Rust en français
 - [Le langage de programmation Rust](https://jimskapt.github.io/rust-book-fr/)
 - [La documentation Rust](https://prev.rust-lang.org/fr-FR/documentation.html)
