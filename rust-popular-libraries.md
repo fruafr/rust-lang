@@ -65,6 +65,7 @@
 | rustls | modern TLS library written in Rust |
 | rustls-webpki | Web PKI X.509 Certificate Verification |
 | digest | Traits for cryptographic hash functions and message authentication codes |
+| sha2 | Pure Rust implementation of the SHA-2 hash function family including SHA-224, SHA-256, SHA-384, and SHA-512 |
 
 ## Database 
 - implementations Database management systems implemented in Rust.
