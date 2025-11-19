@@ -10,6 +10,7 @@ rust language resources
 
 ## My lists
 - [List of core Rust libraries](rust-core-libraries.md)
+- [List of popular Rust libraries](rust-popular-libraries.md)
 
 ## Everyday dev
 ### Cheat Sheet
