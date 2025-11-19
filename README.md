@@ -5,6 +5,7 @@ rust language resources
 - [Documentation search for any published crate](https://docs.rs/)
 - [std: Rust standard library](https://doc.rust-lang.org/std/)
 - [cargo guide](https://doc.rust-lang.org/cargo/guide/)
+- [rustdoc guide](https://doc.rust-lang.org/rustdoc/what-is-rustdoc.html)
 - [Rust error codes index](https://doc.rust-lang.org/error_codes/error-index.html)
 
 ### Interactive - Rust playground
