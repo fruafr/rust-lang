@@ -3,14 +3,15 @@
 - [std : Rust Standard library](https://doc.rust-lang.org/std/)
 - [Rust patterns](#rust-patterns)
 - [Data structures](#data-structures)
-- [Debugging](#debugging): Errors, logging
 - [Algorithms](#algorithms): Random numbers generators
 - [Encoding data](#encoding-data)
 - [Text processing](#text-processing)
 - [Network programming](#network-programming)
 - [Operating systems](#operating-systems)
-- [Build utils](#build-utils)
-- [Procedural-macros](#procedural-macros)
+- [Development tools](development-tools):
+  - [Debugging](#debugging): Errors, logging
+  - [Build utils](#build-utils)
+  - [Procedural-macros](#procedural-macros)
 
 ## Rust patterns
 - shared solutions for particular situations specific to programming in Rust.
@@ -28,22 +29,6 @@
 | -| - |
 | [**hashbrown**](https://docs.rs/hashbrown/latest/hashbrown/) | Port of Google's SwissTable hash map |
 | [**indexmap**](https://docs.rs/indexmap/latest/indexmap/) | A hash table with consistent order and fast iteration |
-
-## Debugging 
-- Figure out what is going on with your code via logging, tracing, or assertions.
-
-### Errors
-
-| Rust Crate | Description |
-| -| - |
-| [**thiserror**](https://docs.rs/thiserror/latest/thiserror/) | derive(Error) - custom error handling | 
-| [**thiserror-impl**](https://docs.rs/thiserror-impl/latest/thiserror_impl/) | Implementation detail of the `thiserror` crate | 
-
-### Logging
-
-| Rust Crate | Description |
-| -| - |
-| [**log**](https://docs.rs/log/latest/log/) | Logging library |
 
 ## Algorithms 
 - Core algorithms such as hashing, sorting and searching.
@@ -93,14 +78,33 @@
 | [**libc**](https://docs.rs/libc/latest/libc/) | Raw FFI bindings to platform libraries like libc |
 | [*windows-sys*](https://docs.rs/windows-sys/latest/windows_sys/) | Rust for Windows |
 
-## Build Utils
+## Development tools
+
+### Debugging 
+- Figure out what is going on with your code via logging, tracing, or assertions.
+
+#### Errors
+
+| Rust Crate | Description |
+| -| - |
+| [**thiserror**](https://docs.rs/thiserror/latest/thiserror/) | derive(Error) - custom error handling | 
+| [**thiserror-impl**](https://docs.rs/thiserror-impl/latest/thiserror_impl/) | Implementation detail of the `thiserror` crate | 
+
+#### Logging
+
+| Rust Crate | Description |
+| -| - |
+| [**log**](https://docs.rs/log/latest/log/) | Logging library |
+
+
+### Build Utils
 - Utilities for build scripts and other build time steps.
 
 | Rust Crate | Description |
 | -| - |
 | [**autocfg**](https://docs.rs/autocfg/latest/autocfg/) | Automatic cfg for Rust compiler features |
 
-## Procedural macros
+### Procedural macros
 - Extend Rust language with procedural macros.
 
 | Rust Crate | Description |
