@@ -1,15 +1,20 @@
 # rust-lang
 rust language resources
 
+- [My lists](#my-lists)
 - [everyday dev](#everyday-dev)
 - [e-books](#e---books)
 - [Guides](#guides)
 - [Interactive - Rust playground](#interactive---rust-playground)
 - [Ressources Rust en français](#ressources-rust-en-français)
 
+## My lists
+- [List of core Rust libraries](rust-core-libraries.md)
+
 ## Everyday dev
 ### Cheat Sheet
 - [Rust Language Cheat Sheet](https://cheats.rs/)
+
 ### Documentation
 - [std](https://doc.rust-lang.org/std/): Rust standard library
 - [docs.rs](https://docs.rs/): Documentation search for any published crate
