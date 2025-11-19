@@ -15,7 +15,7 @@
 - [Logging - Events](logging---events)
 - [Random numbers](#random-numbers)
 - [System calls](#system-calls)
-- 
+- [Rust language programming and tooling](#rust-language-programming-and-tooling)
 
 ### Data 
 
@@ -25,7 +25,7 @@
 | -| - |
 | [**base64**](https://docs.rs/base64/latest/base64/) | encodes and decodes base64 as bytes or utf8 |
 | [**bitflags**](https://docs.rs/bitflags/latest/bitflags/) | Macro to generate structures which behave like bitflags |
-| [**hashbrown**](https://docs.rs/hashbrown/latest/hashbrown/) | **port of Google's SwissTable hash map** |
+| [**hashbrown**](https://docs.rs/hashbrown/latest/hashbrown/) | Port of Google's SwissTable hash map |
 | [**indexmap**](https://docs.rs/indexmap/latest/indexmap/) | A hash table with consistent order and fast iteration |
 | [**itertools**](https://docs.rs/itertools/latest/itertools/) | Extra iterator adaptors, iterator methods, free functions, and macros |
 | [**once_cell**](https://docs.rs/once_cell/latest/once_cell/) | Single assignment cells and lazy values | 
@@ -87,7 +87,7 @@
 | Rust Crate | Description |
 | -| - |
 | [**autocfg**](https://docs.rs/autocfg/latest/autocfg/) | Automatic cfg for Rust compiler features |
-| [**syn**](https://docs.rs/syn/latest/syn/) | **Parser for Rust source code** |
+| [**syn**](https://docs.rs/syn/latest/syn/) | Parser for Rust source code |
 
 #### Macros
 
