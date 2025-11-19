@@ -170,6 +170,11 @@
 ### Debugging 
 - Figure out what is going on with your code via logging, tracing, or assertions.
 
+| Rust Crate | Description |
+| -| - |
+| tracing-core | Core primitives for application-level tracing |
+| tracing | Application-level tracing |
+
 ### Build Utils
 - Utilities for build scripts and other build time steps.
 
