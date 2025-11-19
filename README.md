@@ -2,6 +2,10 @@
 rust language resources
 
 - [e-books](#e---books)
+- [Documentation](#documentation)
+- [Guides](#guides)
+- [Interactive - Rust playground](#interactive---rust-playground)
+- [Ressources Rust en français](#ressources-rust-en-français)
 
 ## e-books
 - [The Rust programming language](https://doc.rust-lang.org/book/)
@@ -18,7 +22,7 @@ rust language resources
 - [rustdoc guide](https://doc.rust-lang.org/rustdoc/what-is-rustdoc.html)
 - [Rust error codes index](https://doc.rust-lang.org/error_codes/error-index.html)
 
-### Interactive - Rust playground
+## Interactive - Rust playground
 - [Rust Playground](https://play.rust-lang.org/) : place to try out and share small bits of code, or experiment with some of the most popular crates.
 
 
