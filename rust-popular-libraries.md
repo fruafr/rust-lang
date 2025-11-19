@@ -15,6 +15,7 @@
 - [HTTP Client](#http-client)
 - [HTTP Servers](#http-servers)
 - [Parser implementations](#parser-implementations)
+- [Rust patterns](#rust-patterns)
 - [Text processing](#text-processing)
 - [Value formatting](#value-formatting)
 - [Development tools](development-tools):
@@ -112,6 +113,11 @@
 | -| - |
 | semver | Parser and evaluator for Cargo's flavor of Semantic Versioning |
 
+## Rust patterns
+| Rust Crate | Description |
+| -| - |
+| anyhow | Error handling library - general error handling |
+
 ## Text processing
 - Text processing Deal with the complexities of human language when expressed in textual form.
 - String searching, Regular Expressions
@@ -142,12 +148,6 @@
 
 ### Debugging 
 - Figure out what is going on with your code via logging, tracing, or assertions.
-
-#### Errors
-
-| Rust Crate | Description |
-| -| - |
-| anyhow | Error handling library - general error handling |
 
 ### Build Utils
 - Utilities for build scripts and other build time steps.
