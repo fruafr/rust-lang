@@ -11,6 +11,7 @@ rust language resources
 - [Rust Playground](https://play.rust-lang.org/) : place to try out and share small bits of code, or experiment with some of the most popular crates.
 
 ### e-books
+- [The Rust programming language](https://doc.rust-lang.org/book/)
 - [The Rust reference](https://doc.rust-lang.org/stable/reference/)
 - [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
 - [Unofficial Bevy Cheat Book (game engine)](https://bevy-cheatbook.github.io/#unofficial-bevy-cheat-book)
