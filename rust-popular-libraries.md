@@ -14,7 +14,7 @@
 - [Filesystem](#filesystem)
 - [HTTP Client](#http-client)
 - [HTTP Servers](#http-servers)
-- [Network Programming](#network Programming)
+- [Network Programming](#network-programming)
 - [Parser implementations](#parser-implementations)
 - [Rust patterns](#rust-patterns)
 - [Text processing](#text-processing)
