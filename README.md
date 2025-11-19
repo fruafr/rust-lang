@@ -13,6 +13,7 @@ rust language resources
 ### e-books
 - [The Rust reference](https://doc.rust-lang.org/stable/reference/)
 - [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
+- [Unofficial Bevy Cheat Book (game engine)](https://bevy-cheatbook.github.io/#unofficial-bevy-cheat-book)
 
 ## Ressources Rust en français
 - [Le langage de programmation Rust](https://jimskapt.github.io/rust-book-fr/)
