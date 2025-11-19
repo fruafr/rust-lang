@@ -114,6 +114,8 @@
 | semver | Parser and evaluator for Cargo's flavor of Semantic Versioning |
 
 ## Rust patterns
+- shared solutions for particular situations specific to programming in Rust.
+
 | Rust Crate | Description |
 | -| - |
 | anyhow | Error handling library - general error handling |
