@@ -14,7 +14,7 @@
 - [Filesystem](#filesystem)
 - [HTTP Client](#http-client)
 - [HTTP Servers](#http-servers)
-- [Networking](#networking)
+- [Network Programming](#network Programming)
 - [Parser implementations](#parser-implementations)
 - [Rust patterns](#rust-patterns)
 - [Text processing](#text-processing)
@@ -107,7 +107,8 @@
 | actix-web | Web framework |
 | axum | Web framework that focuses on ergonomics and modularity |
 
-## Networking
+## Network programming
+- Network protocols such as FTP, HTTP, or SSH, or lower-level TCP or UDP.
 
 | Rust Crate | Description |
 | -| - |
