@@ -9,6 +9,14 @@
 - Crates in bold are top 25 all time downloads
 - Crates in italic are in the top 25 of recent download (but not top 25 all time)
 
+- [Data](#data)
+- [Errors](#errors)
+- [IO](#io)
+- [Logging - Events](logging---events)
+- [Random numbers](#random-numbers)
+- [System calls](#system-calls)
+- 
+
 ### Data 
 
 #### Data types
