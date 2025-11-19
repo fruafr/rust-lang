@@ -7,6 +7,7 @@
 - [Asynchronous](#asynchronous)
 - [CLI](#cli): Command-line interface
 - [Concurrency](#concurrency)
+- [Cryptography](#cryptography)
 - [Database](#database)
 - [Data structures](#data-structures)
 - [Date - Time](#date---time)
@@ -55,6 +56,15 @@
 | parking_lot_core | An advanced API for creating custom synchronization primitives |
 | parking_lot | More compact and efficient implementations of the standard synchronization primitives |
 | rayon | Parallelism library |
+
+## Cryptography
+- Algorithms intended to secure data
+
+| Rust Crate | Description |
+| -| - |
+| rustls | modern TLS library written in Rust |
+| rustls-webpki | Web PKI X.509 Certificate Verification |
+| digest | Traits for cryptographic hash functions and message authentication codes |
 
 ## Database 
 - implementations Database management systems implemented in Rust.
