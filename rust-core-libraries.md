@@ -119,6 +119,6 @@
 - Crates in bold are top 25 all time downloads
 - Crates in italic are in the top 25 of recent download (but not top 25 all time)
 - Updated: Nov 2025
-- Data source: crates.io
+- Data source: [crates.io](https://crates.io/), [lib.rs](https://lib.rs/)
 
 
