@@ -2,9 +2,9 @@
 
 ## Standard library
 
-- [Rust Standard library]()
+- [std : Rust Standard library](https://doc.rust-lang.org/std/)
 
-## Top 25 - Core
+## Core
 
 - Crates in bold are top 25 all time downloads
 - Crates in italic are in the top 25 of recent download (but not top 25 all time)
@@ -15,34 +15,34 @@
 
 | Rust Crate | Description |
 | -| - |
-| [**base64**]() | encodes and decodes base64 as bytes or utf8 |
-| [**bitflags**]() | Macro to generate structures which behave like bitflags |
-| [**hashbrown**]() | **port of Google's SwissTable hash map** |
-| [**indexmap**]() | A hash table with consistent order and fast iteration |
-| [**itertools**]() | Extra iterator adaptors, iterator methods, free functions, and macros |
-| [**once_cell**]() | Single assignment cells and lazy values | 
+| [**base64**](https://docs.rs/base64/latest/base64/) | encodes and decodes base64 as bytes or utf8 |
+| [**bitflags**](https://docs.rs/bitflags/latest/bitflags/) | Macro to generate structures which behave like bitflags |
+| [**hashbrown**](https://docs.rs/hashbrown/latest/hashbrown/) | **port of Google's SwissTable hash map** |
+| [**indexmap**](https://docs.rs/indexmap/latest/indexmap/) | A hash table with consistent order and fast iteration |
+| [**itertools**](https://docs.rs/itertools/latest/itertools/) | Extra iterator adaptors, iterator methods, free functions, and macros |
+| [**once_cell**](https://docs.rs/once_cell/latest/once_cell/) | Single assignment cells and lazy values | 
 
 #### Serialization - Deserialization - String conversion
 
 | Rust Crate | Description |
 | -| - |
-| [**itoa**]() | Fast integer primitive to string conversion | 
-| [**serde**]() | Generic serialization/deserialization framework |
-| [**serde_derive**]() | Macros 1.1 implementation of #[derive(Serialize, Deserialize)] |
+| [**itoa**](https://docs.rs/itoa/latest/itoa/) | Fast integer primitive to string conversion | 
+| [**serde**](https://docs.rs/serde/latest/serde/) | Generic serialization/deserialization framework - [Additional docs](https://serde.rs/) |
+| [**serde_derive**](https://docs.rs/serde_derive/latest/serde_derive/) | Macros 1.1 implementation of #[derive(Serialize, Deserialize)] - [Additional docs](https://serde.rs/derive.html) |
 
 #### Text processing : String searching - Regular Expressions
 
 | Rust Crate | Description |
 | -| - |
-| [**memchr**]() | Provides extremely fast (uses SIMD on x86_64, aarch64 and wasm32) routines for 1, 2 or 3 byte search and single substring search |
-| [**regex-automata**]() | Automata construction and matching using regular expressions |
-| [**unicode-ident**]() | Determine whether characters have the XID_Start or XID_Continue properties according to Unicode Standard Annex #31 |
+| [**memchr**](https://docs.rs/memchr/latest/memchr/) | Provides extremely fast (uses SIMD on x86_64, aarch64 and wasm32) routines for 1, 2 or 3 byte search and single substring search |
+| [**regex-automata**](https://docs.rs/regex-automata/latest/regex_automata/) | Automata construction and matching using regular expressions |
+| [**unicode-ident**](https://docs.rs/unicode-ident/latest/unicode_ident/) | Determine whether characters have the XID_Start or XID_Continue properties according to Unicode Standard Annex #31 |
 
 ### Errors
 | Rust Crate | Description |
 | -| - |
-| [**thiserror**]() | derive(Error) - custom error handling | 
-| [**thiserror-impl**]() | Implementation detail of the `thiserror` crate | 
+| [**thiserror**](https://docs.rs/thiserror/latest/thiserror/) | derive(Error) - custom error handling | 
+| [**thiserror-impl**](https://docs.rs/thiserror-impl/latest/thiserror_impl/) | Implementation detail of the `thiserror` crate | 
 
 ### I/O
 
@@ -50,43 +50,43 @@
 
 | Rust Crate | Description |
 | -| - |
-| [*socket2*]() | Utilities for handling networking sockets with a maximal amount of configuration possible intended. |
+| [*socket2*](https://docs.rs/socket2/latest/socket2/) | Utilities for handling networking sockets with a maximal amount of configuration possible intended. |
 
 ### Logging - Events
 
 | Rust Crate | Description |
 | -| - |
-| [**log**]() | Logging library |
+| [**log**](https://docs.rs/log/latest/log/) | Logging library |
 
 ### Random numbers
 
 | Rust Crate | Description |
 | -| - |
-| [**getrandom**]() | A small cross-platform library for retrieving random data from system source | 
-| [**rand**]() | Random number generators and other randomness functionality |
-| [**rand_chacha**]() | ChaCha random number generator | 
-| [**rand_core**]() | Core random number generator traits and tools for implementation |
+| [**getrandom**](https://docs.rs/getrandom/latest/getrandom/) | A small cross-platform library for retrieving random data from system source | 
+| [**rand**](https://docs.rs/rand/latest/rand/) | Random number generators and other randomness functionality |
+| [**rand_chacha**](https://docs.rs/rand_chacha/latest/rand_chacha/) | ChaCha random number generator | 
+| [**rand_core**](https://docs.rs/rand_core/latest/rand_core/) | Core random number generator traits and tools for implementation |
 
 ### System calls
 
 | Rust Crate | Description |
 | -| - |
-| [**libc**]() | Raw FFI bindings to platform libraries like libc |
-| [*windows-sys*]() | Rust for Windows |
+| [**libc**](https://docs.rs/libc/latest/libc/) | Raw FFI bindings to platform libraries like libc |
+| [*windows-sys*](https://docs.rs/windows-sys/latest/windows_sys/) | Rust for Windows |
 
 ### Rust Language programming and tooling
 
 | Rust Crate | Description |
 | -| - |
-| [**autocfg**]() | Automatic cfg for Rust compiler features |
-| [**syn**]() | **Parser for Rust source code** |
+| [**autocfg**](https://docs.rs/autocfg/latest/autocfg/) | Automatic cfg for Rust compiler features |
+| [**syn**](https://docs.rs/syn/latest/syn/) | **Parser for Rust source code** |
 
 #### Macros
 
 | Rust Crate | Description |
 | -| - |
-| [**proc-macro2**]() | substitute implementation of the compiler's `proc_macro` API to decouple token-based libraries from the procedural macro use case |
-| [**quote**]() | Quasi-quoting macro quote!(...) |
-| [**cfg-if**]() | Macro to ergonomically define an item depending on a large number of #[cfg] parameters. Structured like an if-else chain, the first matching branch is the item that gets emitted |
+| [**proc-macro2**](https://docs.rs/proc-macro2/latest/proc_macro2/) | substitute implementation of the compiler's `proc_macro` API to decouple token-based libraries from the procedural macro use case |
+| [**quote**](https://docs.rs/quote/latest/quote/) | Quasi-quoting macro quote!(...) |
+| [**cfg-if**](https://docs.rs/cfg-if/latest/cfg_if/) | Macro to ergonomically define an item depending on a large number of #[cfg] parameters. Structured like an if-else chain, the first matching branch is the item that gets emitted |
 
 
