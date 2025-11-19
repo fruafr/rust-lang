@@ -14,6 +14,7 @@
 - [Filesystem](#filesystem)
 - [HTTP Client](#http-client)
 - [HTTP Servers](#http-servers)
+- [Networking](#networking)
 - [Parser implementations](#parser-implementations)
 - [Rust patterns](#rust-patterns)
 - [Text processing](#text-processing)
@@ -105,6 +106,12 @@
 | -| - |
 | actix-web | Web framework |
 | axum | Web framework that focuses on ergonomics and modularity |
+
+## Networking
+
+| Rust Crate | Description |
+| -| - |
+| tower | modular and reusable components for building robust clients and servers |
 
 ## Parser implementations
 - Parse data formats or languages.
