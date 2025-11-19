@@ -13,7 +13,7 @@ rust language resources
 - [Crates.io category slugs](https://crates.io/category_slugs)
 - [Maintainer dashboard (lib.rs)](https://lib.rs/dash)
 - [crates.io : Crate registry](https://crates.io/)
-- [lib.rs : Index of Rust libraries and programs (stats)](https://lib.rs/)
+- [lib.rs : State of the Rust ecosystem (stats)](https://lib.rs/)
 
 ## e-books
 - [The Rust programming language](https://doc.rust-lang.org/book/)
