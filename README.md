@@ -8,8 +8,12 @@ rust language resources
 - [Ressources Rust en français](#ressources-rust-en-français)
 
 ## Everyday dev
+### Cheat Sheet
+- [Rust Language Cheat Sheet](https://cheats.rs/)
+### Documentation
 - [std](https://doc.rust-lang.org/std/): Rust standard library
 - [docs.rs](https://docs.rs/): Documentation search for any published crate
+### Crates
 - [crates.io](https://crates.io/): Crate registry
   - [category slugs](https://crates.io/category_slugs)
 - [Maintainer dashboard (lib.rs)](https://lib.rs/dash)
