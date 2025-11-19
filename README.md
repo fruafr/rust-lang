@@ -8,12 +8,12 @@ rust language resources
 - [Ressources Rust en français](#ressources-rust-en-français)
 
 ## Everyday dev
-- [std: Rust standard library](https://doc.rust-lang.org/std/)
-- [docs.rs : Documentation search for any published crate](https://docs.rs/)
-- [Crates.io category slugs](https://crates.io/category_slugs)
+- [std](https://doc.rust-lang.org/std/): Rust standard library
+- [docs.rs](https://docs.rs/): Documentation search for any published crate
+- [crates.io](https://crates.io/): Crate registry
+  - [category slugs](https://crates.io/category_slugs)
 - [Maintainer dashboard (lib.rs)](https://lib.rs/dash)
-- [crates.io : Crate registry](https://crates.io/)
-- [lib.rs : State of the Rust ecosystem (stats)](https://lib.rs/)
+- [lib.rs](https://lib.rs/): State of the Rust ecosystem (stats)
 
 ## e-books
 - [The Rust programming language](https://doc.rust-lang.org/book/)
@@ -25,7 +25,7 @@ rust language resources
 - [cargo guide](https://doc.rust-lang.org/cargo/guide/)
 - [rustdoc guide](https://doc.rust-lang.org/rustdoc/what-is-rustdoc.html)
 - [Rust error codes index](https://doc.rust-lang.org/error_codes/error-index.html)
-- [cargo-dist : Tooling to distribute binaries](https://axodotdev.github.io/cargo-dist/book/introduction.html)
+- [cargo-dist](https://axodotdev.github.io/cargo-dist/book/introduction.html): Tooling to distribute binaries
 
 ## Interactive - Rust playground
 - [Rust Playground](https://play.rust-lang.org/) : place to try out and share small bits of code, or experiment with some of the most popular crates.
