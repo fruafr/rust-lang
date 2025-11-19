@@ -117,6 +117,7 @@
 
 | Rust Crate | Description |
 | -| - |
+| aho-corasick | Fast multiple substring searching |
 | heck | Case conversion library - checking and manipulating strings |
 | regex | Regular expressions for Rust |
 | regex-syntax | Regular expressions |. This implementation uses finite automata and guarantees linear time matching on all inputs. |
